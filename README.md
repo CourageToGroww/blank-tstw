@@ -1,4 +1,4 @@
-# just an easy template for me to pull and begin banging out code. :) 
+# Just an easy template :)
 
 dependencies 
 Front end:
